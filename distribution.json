@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "rss": "",
+    "servers": [
+        {
+            "id": "relicwar",
+            "name": "유물 전쟁",
+            "description": "서버 내에 4개의 유물들을 먼저 획득하여 우승을 챙기자!",
+            "icon": "https://내_서버_아이콘_이미지_주소.png",
+            "version": "1.21.10",
+            "address": "standard-6.alcl.cloud:27300",
+            "minecraftVersion": "1.21.10",
+            "mainServer": true,
+            "autoconnect": false,
+            "java": {
+                "version": 21,
+                "arch": "64"
+            },
+            "modules": [
+                {
+                    "id": "fabric-loader",
+                    "name": "Fabric Loader",
+                    "type": "fabric",
+                    "artifact": {
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar",
+                        "hash": "MD5해시값(모르면일단비워두세요)" 
+                    }
+                }
+            ]
+        }
+    ]
+}
