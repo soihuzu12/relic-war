@@ -7,9 +7,9 @@
             "name": "유물 전쟁",
             "description": "서버 내에 4개의 유물들을 먼저 획득하여 우승을 챙기자!",
             "icon": "https://helio-assets.b-cdn.net/icon.png",
-            "version": "1.21.1",
+            "version": "1.21.10",
             "address": "standard-6.alcl.cloud:27300",
-            "minecraftVersion": "1.21.1",
+            "minecraftVersion": "1.21.10",
             "mainServer": true,
             "autoconnect": false,
             "java": {
@@ -29,3 +29,4 @@
         }
     ]
 }
+
