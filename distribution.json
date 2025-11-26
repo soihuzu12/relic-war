@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "rss": "https://github.com/soihuzu12/relic-war",
+    
     "servers": [
         {
             "id": "relicwar",
@@ -29,4 +29,5 @@
         }
     ]
 }
+
 
