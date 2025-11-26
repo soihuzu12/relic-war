@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    
+    "rss": "",
     "servers": [
         {
             "id": "relicwar",
@@ -29,5 +29,6 @@
         }
     ]
 }
+
 
 
