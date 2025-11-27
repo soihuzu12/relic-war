@@ -1,0 +1,27 @@
+[
+  {
+    "file_name": "fabric-api-0.138.3+1.21.10.jar",
+    "download_url": "https://github.com/soihuzu12/relic-war/releases/download/0.1/fabric-api-0.138.3+1.21.10.jar",
+    "mc_version": "1.21.10"
+  },
+  {
+    "file_name": "Flashback-0.38.2-for-MC1.21.10.jar",
+    "download_url": "https://github.com/soihuzu12/relic-war/releases/download/0.1/Flashback-0.38.2-for-MC1.21.10.jar",
+    "mc_version": "1.21.10"
+  },
+  {
+    "file_name": "iris-fabric-1.9.6+mC1.21.9.jar",
+    "download_url": "https://github.com/soihuzu12/relic-war/releases/download/0.1/iris-fabric-1.9.6+mC1.21.9.jar",
+    "mc_version": "1.21.10"
+  },
+  {
+    "file_name": "sodium-fabric-0.7.3+mC1.21.10.jar",
+    "download_url": "https://github.com/soihuzu12/relic-war/releases/download/0.1/sodium-fabric-0.7.3+mC1.21.10.jar",
+    "mc_version": "1.21.10"
+  },
+  {
+    "file_name": "voicechat-fabric-1.21.10-2.6.6.jar",
+    "download_url": "https://github.com/soihuzu12/relic-war/releases/download/0.1/voicechat-fabric-1.21.10-2.6.6.jar",
+    "mc_version": "1.21.10"
+  }
+]
